@@ -33,7 +33,7 @@ identify out/entry.png    # 1024x1024
 ## Contents
 
 - `main.ts` — entry program (Node 22, stdlib only, no network)
-- `entry.png` — the day's news summary image (1024×1024, 121 KB)
+- `entry.png` — the day's news summary image (1024×1024, 95 KB). Black background; 9 main news stacked vertically with a rectangular icon and bold golden title beside each; the other stories listed in a copper "THE REST OF THE DAY" panel.
 - `README.md` — this file
 - `.makefun/owner.json` — wallet claim file
 
