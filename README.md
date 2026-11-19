@@ -4,9 +4,15 @@ Entry for the **news-image-20261119** make.fun competition:
 
 > Sum up 19 November's world news in one image.
 
+## make.fun badge
+
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Ostde/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Ostde/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 ## What it does
 
-A single Node 22 program (`main.ts`) that copies a 1024×1024 pixel news summary
+A single Node 22 program (`main.ts`) that copies a 1024×1024 news summary
 image (`entry.png`) to the grader's `/output/entry.png`. The image is a static
 file built into the repository, so the program is trivial and fully deterministic.
 
@@ -34,3 +40,8 @@ identify out/entry.png    # 1024x1024
 ## License
 
 MIT
+
+## Competition
+
+- **Bounty:** [news-image-20261119](https://make.fun/bounty/news-image-20261119) — Sum up 19 November's world news in one image
+- **Website:** https://make.fun/bounty/news-image-20261119
